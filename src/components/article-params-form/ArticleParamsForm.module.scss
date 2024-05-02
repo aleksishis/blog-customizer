@@ -25,6 +25,23 @@
 	border-right: 1px solid #000000;
 }
 
+.formHeader {
+	margin-bottom: 50px;
+}
+
+.paramsBlock {
+	display: flex;
+	flex-direction: column;
+	gap: 50px;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  background-color: #D7D7D7;
+	margin: 50px 0 50px;
+}
+
 .bottomContainer {
 	display: flex;
 	justify-content: space-between;
